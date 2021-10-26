@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Olea](https://github.com/coferrari/PG-Olea)
 
-- 🌱 I’m currently learning **Next.js, MongoDB, TypeScript & ReactNative**
+- 🌱 I’m currently learning **Solidity, HardHat**
 
 - 📫 How to reach me **joaquinjoby@gmail.com**
 
