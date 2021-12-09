@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **joaquinjoby@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/joaquinalvarezflores/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAADY0Hy8BvcRtaTgYOvQb0HUGJG_GkNEKiLc,1635471707276)/](https://www.linkedin.com/in/joaquinalvarezflores/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAADY0Hy8BvcRtaTgYOvQb0HUGJG_GkNEKiLc,1635471707276)/)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1_136-4D2Iam3eO3wcUc7GfW80tNOzhaM/view?usp=sharing](https://drive.google.com/file/d/1_136-4D2Iam3eO3wcUc7GfW80tNOzhaM/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
