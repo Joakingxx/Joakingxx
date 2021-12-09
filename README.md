@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Olea](https://github.com/coferrari/PG-Olea)
 
-- 🌱 I’m currently learning **Solidity, HardHat**
+- 🌱 I’m currently learning **MongoDB**
 
 - 📫 How to reach me **joaquinjoby@gmail.com**
 
