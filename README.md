@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on [Olea](https://github.com/coferrari/PG-Olea)
 
-- 🌱 I’m currently learning **MongoDB**
-
 - 📫 How to reach me **joaquinjoby@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1_136-4D2Iam3eO3wcUc7GfW80tNOzhaM/view?usp=sharing](https://drive.google.com/file/d/1_136-4D2Iam3eO3wcUc7GfW80tNOzhaM/view?usp=sharing)
