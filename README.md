@@ -32,7 +32,7 @@
 <a href='https://github.com/Joakingxx/PI-Videogames-main'> 🌎 For more info click here !</a>
 </p>
 
-![image](https://raw.githubusercontent.com/Joakingxx/images/main/PI-VIDEOGAMES.png?token=GHSAT0AAAAAABRTN23EUYWTXH2O5EBDOIQEYTC5CWA)
+![image](https://raw.githubusercontent.com/Joakingxx/images/main/PI-VIDEOGAMES.png?token=GHSAT0AAAAAABRTN23EXGHMTK33JG2UJMK2YTC5I5Q)
 
 
 <h2 aling="left"> 🍂 Olea </h2>
