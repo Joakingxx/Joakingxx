@@ -42,6 +42,13 @@
 
 ![image](https://user-images.githubusercontent.com/73723295/138529591-e6795c04-469f-4136-9da2-1e0848fc3f54.png)
 
+<h2 aling="left">👾 Mi Primer NFT </h2>
+<p>I developed a smart contract that mint an NFT, using tecnologies like solidity and css..
+<a href='https://mi-primer-nft.vercel.app/'> 👾 Visit the page! </a>
+</p>
+
+![image](https://raw.githubusercontent.com/Joakingxx/images/main/mi-primer-nft.png?token=GHSAT0AAAAAABRTN23FD4FBHC6MVAKWOT5QYTC5ILA)
+
 ---
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Joakingxx&" alt="nahuelkbx" /></p>
