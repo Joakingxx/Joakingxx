@@ -31,6 +31,7 @@
 <p>I developed a SPA (Single Page Appllication) Using tecnologies like React, Redux and Css Native for frontend, the SPA consume data from RAWG.IO API across backend developed in Node.JS ussing Express.
 <a href='https://github.com/Joakingxx/PI-Videogames-main'> 🌎 For more info click here !</a>
 </p>
+
 ![image](https://raw.githubusercontent.com/Joakingxx/images/main/PI-VIDEOGAMES.png?token=GHSAT0AAAAAABRTN23EUYWTXH2O5EBDOIQEYTC5CWA)
 
 
@@ -38,6 +39,7 @@
 <p>I developed a E-commerce with 6 developers, Using tecnologies like React, Redux, Css for the Frontend and for the Backend used Node.JS and Express. For the Database used POSTGRESQL + Sequelize
 <a href='https://somosolea.vercel.app/'> 🌱 Visit the page! </a>
 </p>
+
 ![image](https://user-images.githubusercontent.com/73723295/138529591-e6795c04-469f-4136-9da2-1e0848fc3f54.png)
 
 ---
