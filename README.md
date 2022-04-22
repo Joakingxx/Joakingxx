@@ -15,8 +15,13 @@
 💻 Others:**Git, Bootstrap, Heroku**
 🤝 Soft Skills:**SCRUM, Fast Learning, Team Player, Competitive, Organization and Teach**
 ---
-<h3 align="left">Contact</h3>
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nahueltomasmonserrat@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/nahuelmonserrat//)
+
 ---
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nahuelkbx&" alt="nahuelkbx" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Joakingxx&" alt="nahuelkbx" /></p>
+
+
+---
+<h3 align="left">Contact</h3>
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaquinjoby@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/joaquinalvarezflores//)
+---
