@@ -8,7 +8,7 @@
 ---
 
 - 🌱 I’m currently learning **Python**
-- 📫 How to reach me **nahueltomasmonserrat@gmail.com**
+- 📫 How to reach me **joaquinjoby@gmail.com**
 - 🌐 Portfolio: https://joaquinalvarez.vercel.app/
 
 ---
