@@ -25,7 +25,15 @@
 🤝 Soft Skills:**SCRUM, Fast Learning, Team Player, Competitive, Organization and Teach**
 
 ---
+<h1 aling="center"> Projects </h1>
 
+
+<h2 aling="left"> 🍂 Olea </h2>
+<p>I developed a E-commerce with 6 developers, Using tecnologies like React, Redux, Css for the Frontend and for the Backend used Node.JS and Express. For the Database used POSTGRESQL + Sequelize
+<a href='https://somosolea.vercel.app/'> 🌱 Visit the page! </a>
+</p>
+
+![image](https://user-images.githubusercontent.com/73723295/138529591-e6795c04-469f-4136-9da2-1e0848fc3f54.png)
 ---
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Joakingxx&" alt="nahuelkbx" /></p>
