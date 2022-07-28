@@ -7,7 +7,7 @@
 
 ---
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **GO**
 - 📫 How to reach me **joaquinjoby@gmail.com**
 - 🌐 Portfolio: https://joaquinalvarez.vercel.app/
 
@@ -16,7 +16,7 @@
 
 💻 Front end:**React, Redux, CSS and JavaScript** 
 
-💻 Back end:**NodeJS, Express** 
+💻 Back end:**NodeJS, Express, GO GINGONIC** 
 
 💻 DataBase:**PostgreSQL**
 
